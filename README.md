@@ -21,7 +21,8 @@
   
 ### :white_medium_square: Livros, E-Book's, Manuais etc
   Esta Pasta esta dedicadas Livros, E-Book's, Manuais ou qualquer arquivo perntinete a disciplina.
- <img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/digital_impresso-removebg-preview.png" width="300" height="200" />
+  
+ <img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/digital_impresso-removebg-preview.png" width="400" height="300" />
    
 ### :white_medium_square: Projeto de Sistema
   Esta Pasta esta dedicadas a todos os arquivos e a documentacao completa do projeto.
