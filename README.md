@@ -12,7 +12,7 @@
 ### :white_medium_square: Atividade em Sala
    Esta Pasta está dedicada as atividades proposta em sala pela professora como: Pesquisas, lições de casa e entre outras atividades pertinente as aulas.
    
-<img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/startup_empreendedorismo_projeto_agile_3-removebg-preview.png" width="300" height="200" />
+<img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/startup_empreendedorismo_projeto_agile_3-removebg-preview.png" width="400" height="300" />
   
 ### :white_medium_square: Mapa Mental
   Esta Pasta esta dedicadas ao meu mapa mental da disciplina.
