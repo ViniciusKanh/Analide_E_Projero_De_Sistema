@@ -67,17 +67,25 @@
 
 ###  MES: ABRIL
 
-- [:heavy_check_mark:] Aula 09 - 07/04/2021 Obs: Diagrama de Sequência e de Atividades
-- [:heavy_check_mark:] Aula 10 - 09/04/2021 Obs: Acompanhamento dos Projetos
-- [] Aula 11 - 14/04/2021 Obs: Semana Nacional da Ciencia e Tecnologia
-- [] Aula 12 - 28/04/2021 Obs: Importacao de Arquivo Excel
+- [:heavy_check_mark:] Aula 09 - 07/04/2021 Obs: Diagrama de Sequência e de Atividades.
+- [:heavy_check_mark:] Aula 10 - 09/04/2021 Obs: Acompanhamento dos Projetos.
+- [] Aula 11 - 14/04/2021 Obs: Diagrama de Estados, Diagrama de Componentes e de Pacotes.
+- [] Aula 12 - 28/04/2021 Obs: Projeto de Dados, Mapeamento Objeto-Relacional.
 
 ###  MES: MAIO
 
+- [] Aula 13 - 05/05/2021 Obs: Projeto de Interface e Projeto Procedimental.
+- [] Aula 14 - 12/05/2021 Obs: Padrões de Projeto.
+- [] Aula 15 - 19/05/2021 Obs: Acompanhamento dos projetos.
+- [] Aula 16 - 26/05/2021 Obs: Análise Essencial, Estruturada e outras formas além de UML.
 
 
 ###  MES: JUNHO
 
+- [] Aula 17 - 02/06/2021 Obs: Apresentação Trabalho Final.
+- [] Aula 18 - 09/06/2021 Obs: Apresentação Trabalho Final.
+- [] Aula 19 - 23/06/2021 Obs: Apresentação Trabalho Final.
+- [] Aula 20 - 30/06/2021 Obs: Encerramento do semestre letivo.
 
 
 
