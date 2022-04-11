@@ -60,11 +60,11 @@
 
 ###  MES: MARÇO
 
-- [:heavy_check_mark:] Aula 04 - 10/09/2021 Obs: Elaboração de Requisitos do Usuário e do Sistema	.
-- [:heavy_check_mark:] Aula 05 - 17/09/2021 Obs: Diagrama de Casos de Uso.
-- [:heavy_check_mark:] Aula 06 - 19/09/2021 Obs: Informações sobre as atividades exigidas para o curso de Engenharia de Computação.
-- [:heavy_check_mark:] Aula 07 - 24/09/2021 Obs: Requisitos, modelo de documento, casos de uso e diagrama de classes.
-- [:heavy_check_mark:] Aula 08 - 31/09/2021 Obs: Diagrama de classes e de objetos.
+- [:heavy_check_mark:] Aula 04 - 10/03/2021 Obs: Elaboração de Requisitos do Usuário e do Sistema	.
+- [:heavy_check_mark:] Aula 05 - 17/03/2021 Obs: Diagrama de Casos de Uso.
+- [:heavy_check_mark:] Aula 06 - 19/03/2021 Obs: Informações sobre as atividades exigidas para o curso de Engenharia de Computação.
+- [:heavy_check_mark:] Aula 07 - 24/03/2021 Obs: Requisitos, modelo de documento, casos de uso e diagrama de classes.
+- [:heavy_check_mark:] Aula 08 - 31/03/2021 Obs: Diagrama de classes e de objetos.
 
 ###  MES: ABRIL
 
