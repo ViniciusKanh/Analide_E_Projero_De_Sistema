@@ -40,8 +40,45 @@
    
 ### :white_medium_square: Projeto de Sistema
   Esta Pasta esta dedicadas a todos os arquivos e a documentacao completa do projeto.
+  
   <img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/TESTE3-removebg-preview.png" width="300" height="300" />
 
 ### :white_medium_square: Certificado
   Esta Pasta esta dedicadas aos meus certificado de pequenos cursos que realizei a fim de adquirir mais conhecimento na disciplina.
-   <img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/images-fococlipping-standard.png" width="300" height="300" />
+   <img src="https://github.com/ViniciusKanh/Analise_E_Projero_De_Sistema/blob/main/Img/images-fococlipping-standard.png" width="250" height="150" />
+   
+   
+# :large_orange_diamond: Andamento e Desenvolvimento da Disciplina 
+
+###  MES: FEVEREIRO
+
+- [:heavy_check_mark:] Aula 01 - 15/02/2021 Obs:  Acolhimento: Direção Geral.
+- [:heavy_check_mark:] Aula 02 - 17/02/2021 Obs:  Recepção: Boas Vindas, Apresentação da Professora, Alunos e Disciplina.
+- [:heavy_check_mark:] Aula 03 - 24/02/2021 Obs:  Paradigmas de Desenvolvimento de Software, Definição de Requisitos, Definição do Projeto a ser desenvolvido.
+
+
+###  MES: MARÇO
+
+- [:heavy_check_mark:] Aula 04 - 10/09/2021 Obs: Elaboração de Requisitos do Usuário e do Sistema	.
+- [:heavy_check_mark:] Aula 05 - 17/09/2021 Obs: Diagrama de Casos de Uso.
+- [:heavy_check_mark:] Aula 06 - 19/09/2021 Obs: Informações sobre as atividades exigidas para o curso de Engenharia de Computação.
+- [:heavy_check_mark:] Aula 07 - 24/09/2021 Obs: Requisitos, modelo de documento, casos de uso e diagrama de classes.
+- [:heavy_check_mark:] Aula 08 - 31/09/2021 Obs: Diagrama de classes e de objetos.
+
+###  MES: ABRIL
+
+- [:heavy_check_mark:] Aula 09 - 07/04/2021 Obs: Diagrama de Sequência e de Atividades
+- [:heavy_check_mark:] Aula 10 - 09/04/2021 Obs: Acompanhamento dos Projetos
+- [] Aula 11 - 14/04/2021 Obs: Semana Nacional da Ciencia e Tecnologia
+- [] Aula 12 - 28/04/2021 Obs: Importacao de Arquivo Excel
+
+###  MES: MAIO
+
+
+
+###  MES: JUNHO
+
+
+
+
+   
