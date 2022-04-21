@@ -105,6 +105,44 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Elastic.Apm.SqlClient": {
+              "target": "Package",
+              "version": "[1.14.1, )"
+            },
+            "Microsoft.Data.SqlClient.AlwaysEncrypted.AzureKeyVaultProvider": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "runtime.win7-x64.runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "runtime.win7-x86.runtime.native.System.Data.SqlClient.sni": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

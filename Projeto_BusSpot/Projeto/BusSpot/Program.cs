@@ -1,3 +1,4 @@
+using BusSpot.Cadastro;
 namespace BusSpot
 {
     internal static class Program
@@ -11,7 +12,7 @@ namespace BusSpot
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Login());
+            Application.Run(new Cadastro_Estado());
         }
     }
 }

@@ -12,7 +12,7 @@ using Classes.Transporte;
 
 namespace Classes.Endereco
 {
-    internal class Cidade
+    public class Cidade
     {
 		public String nome { get; private set; }
 
