@@ -8,7 +8,6 @@ G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\bin\Debug\net6.0-windows\BancoDados.pdb
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\bin\Debug\net6.0-windows\Classes.pdb
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.csproj.AssemblyReference.cache
-G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Form1.resources
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.csproj.GenerateResource.cache
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.GeneratedMSBuildEditorConfig.editorconfig
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.AssemblyInfoInputs.cache
@@ -20,3 +19,10 @@ G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.pdb
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.genruntimeconfig.cache
 G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\ref\BusSpot.dll
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_Bairro.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_Cidade.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_Endereco.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_Estado.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_Logradouro.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Cadastro.Cadastro_TipoLogradouro.resources
+G:\Meu Drive\Faculdade\Aula\Semestre Letivo\2022.1\Analise de Projeto e Sistemas\APSE5_Portfolio_Academico\Projeto_BusSpot\Projeto\BusSpot\obj\Debug\net6.0-windows\BusSpot.Login.resources

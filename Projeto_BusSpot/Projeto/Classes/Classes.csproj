@@ -11,8 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Endereco\" />
-    <Folder Include="Onibus\" />
     <Folder Include="Transporte\" />
   </ItemGroup>
 
