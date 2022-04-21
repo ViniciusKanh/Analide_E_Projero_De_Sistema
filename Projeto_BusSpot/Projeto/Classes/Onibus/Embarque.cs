@@ -13,12 +13,18 @@ namespace Classes.Onibus
 
 	public class Embarque
 	{
-		private String Tipo_Emb;
+		public String Tipo_Emb { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		///  
-		public void Incluir_Embarque()
+		public Embarque()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Embarque()
 		{
 
 		}

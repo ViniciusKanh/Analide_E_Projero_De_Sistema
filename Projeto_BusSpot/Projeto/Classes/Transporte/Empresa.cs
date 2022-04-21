@@ -12,30 +12,37 @@ namespace Classes.Transporte
 
 	public class Empresa
 	{
-		private String Nome;
+		public String Nome { get; private set; }
 
-		private String CNPJ;
+		public String CNPJ { get; private set; }
 
-		private String Usuario;
+		public String Usuario { get; private set; }
 
-		private String Senha;
+		public String Senha { get; private set; }
 
-		private String Numeral;
+		public String Numeral { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		private Paradas paradas;
+		public Paradas paradas { get; private set; }
 
-		private Endereço endereço;
+		public Endereco.Endereco endereço { get; private set; }
 
-		private Linhas linhas;
+		public Linhas linhas { get; private set; }
 
-		private ICollection<Reclamacao> reclamacao;
+		public ICollection<Reclamacao> reclamacao { get; private set; }
 
-		private Linhas Linhas;
+		public Linhas Linhas { get; private set; }
 
-		///  
-		public void Incluir_Empresa()
+		public Empresa(
+			)
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Empresa()
 		{
 
 		}

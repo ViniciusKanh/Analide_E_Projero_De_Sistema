@@ -1,23 +1,35 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using Classes.Endereco;
+using Classes.Onibus;
+using Classes.Transporte;
+
 
 namespace Classes.Endereco
 {
     internal class Cidade
     {
-		private String nome;
+		public String nome { get; private set; }
 
-		private String cep;
+		public String cep { get; private set; }
 
-		private Estado estado;
+		public Estado estado { get; private set; }
 
-		private ICollection<Endereço> endereço;
+		public ICollection<Endereco> endereço { get; private set; }
 
-		///  
-		public void Incluir_Cidade()
+        public Cidade()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Cidade()
 		{
 
 		}

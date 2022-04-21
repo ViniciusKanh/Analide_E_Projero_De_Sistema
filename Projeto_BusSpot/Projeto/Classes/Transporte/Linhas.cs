@@ -11,27 +11,32 @@ namespace Classes.Transporte
 {
 	public class Linhas
 	{
-		private String NumeroLinha;
+		public String NumeroLinha { get; private set; }
 
-		private String Descrição;
+		public String Descrição { get; private set; }
 
-		private String HorarioPartida;
+		public String HorarioPartida { get; private set; }
 
-		private String HorarioChegada;
+		public String HorarioChegada { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		private Ponto ponto;
+		public Ponto ponto { get; private set; }
 
-		private ICollection<Paradas> paradas;
+		public ICollection<Paradas> paradas { get; private set; }
 
-		private Empresa empresa;
+		public Empresa empresa { get; private set; }
+
+		public Linhas()
+        {
+        }
 
 
 
 
-		///  
-		public void Incluir_Linha()
+
+        ///  
+        public void Incluir_Linha()
 		{
 
 		}

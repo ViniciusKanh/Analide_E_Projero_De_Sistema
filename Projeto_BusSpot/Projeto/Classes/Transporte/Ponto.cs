@@ -12,17 +12,21 @@ namespace Classes.Transporte
 
 	public class Ponto
 	{
-		private String Tipo;
+		public String Tipo { get; private set; }
 
-		private Paradas paradas;
+		public Paradas paradas { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		private Linhas linhas;
+		public Linhas linhas { get; private set; }
 
-		private Paradas Paradas;
+		public Paradas Paradas { get; private set; }
 
-		public void Incluir_Ponto()
+		public Ponto()
+        {
+        }
+
+        public void Incluir_Ponto()
 		{
 
 		}

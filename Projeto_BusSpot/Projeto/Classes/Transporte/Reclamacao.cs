@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,26 +7,34 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Classes.Endereco;
 using Classes.Onibus;
+using Classes.Transporte;
+
 
 namespace Classes.Transporte
 {
 
 	public class Reclamacao
 	{
-		private String Nome;
+		public String Nome { get; private set; }
 
-		private String Email;
+		public String Email { get; private set; }
 
-		private String Telefone;
+		public String Telefone { get; private set; }
 
-		private String Desc_Rec;
+		public String Desc_Rec { get; private set; }
 
-		private DateTime Data_Rec;
+		public DateTime Data_Rec { get; private set; }
 
-		private Empresa empresa;
+		public Empresa empresa { get; private set; }
 
-		///  
-		public void Incluir_Reclamacao()
+		public Reclamacao()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Reclamacao()
 		{
 
 		}

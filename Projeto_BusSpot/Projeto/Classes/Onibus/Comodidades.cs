@@ -12,22 +12,28 @@ namespace Classes.Onibus
 
 	public class Comodidades
 	{
-		private bool ArCond;
+		public bool ArCond { get; private set; }
 
-		private bool Wifi;
+		public bool Wifi { get; private set; }
 
-		private bool Tomada;
+		public bool Tomada { get; private set; }
 
-		private bool Banheiro;
+		public bool Banheiro { get; private set; }
 
-		private bool CadRec;
+		public bool CadRec { get; private set; }
 
-		private bool Vendas;
+		public bool Vendas { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		///  
-		public void Incluir_Comodidade()
+		public Comodidades()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Comodidade()
 		{
 
 		}

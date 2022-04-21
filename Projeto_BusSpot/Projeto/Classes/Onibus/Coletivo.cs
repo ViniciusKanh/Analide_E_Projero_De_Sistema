@@ -12,38 +12,44 @@ namespace Classes.Onibus
 
 	public class Coletivo
 	{
-		private String N_Onibus;
+		public String N_Onibus { get; private set; }
 
-		private Empresa empresa;
+		public Empresa empresa { get; private set; }
 
-		private Ponto ponto;
+		public Ponto ponto { get; private set; }
 
-		private Comodidades comodidades;
+		public Comodidades comodidades { get; private set; }
 
-		private Acessibilidade acessibilidade;
+		public Acessibilidade acessibilidade { get; private set; }
 
-		private Embarque embarque;
+		public Embarque embarque { get; private set; }
 
-		private Pagamento pagamento;
+		public Pagamento pagamento { get; private set; }
 
-		private Empresa Empresa;
+		public Empresa Empresa { get; private set; }
 
-		private Comodidades Comodidades;
+		public Comodidades Comodidades { get; private set; }
 
-		private Acessibilidade Acessibilidade;
+		public Acessibilidade Acessibilidade { get; private set; }
 
-		private Embarque Embarque;
+		public Embarque Embarque { get; private set; }
 
-		private Pagamento Pagamento;
+		public Pagamento Pagamento { get; private set; }
 
-		private Linhas linhas;
+		public Linhas linhas { get; private set; }
 
-		private Localizacao localizacao;
+		public Localizacao localizacao { get; private set; }
 
-		private ICollection<Linhas> Linhas;
+		public ICollection<Linhas> Linhas { get; private set; }
 
-		///  
-		public void Incluir_Onibus()
+		public Coletivo()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Onibus()
 		{
 
 		}

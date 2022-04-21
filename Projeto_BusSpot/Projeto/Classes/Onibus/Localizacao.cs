@@ -13,16 +13,22 @@ namespace Classes.Onibus
 
 	public class Localizacao
 	{
-		private DateTime Data_Hora;
+		public DateTime Data_Hora { get; private set; }
 
-		private String Latitude;
+		public String Latitude { get; private set; }
 
-		private String Longitude;
+		public String Longitude { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		///  
-		public void Integracao_Localização()
+		public Localizacao()
+        {
+        }
+
+
+
+        ///  
+        public void Integracao_Localização()
 		{
 
 		}

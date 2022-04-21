@@ -12,12 +12,17 @@ namespace Classes.Onibus
 
 	public class Pagamento
 	{
-		private String Tipo_Pag;
+		public String Tipo_Pag { get; private set; }
 
-		private Coletivo onibus;
+		public Coletivo onibus { get; private set; }
 
-		///  
-		public void Incluir_Pagamento()
+		public Pagamento()
+        {
+        }
+
+
+        ///  
+        public void Incluir_Pagamento()
 		{
 
 		}

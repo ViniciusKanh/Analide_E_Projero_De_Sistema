@@ -10,9 +10,9 @@ namespace Classes.Endereco
 {
 	public class Logradouro
 	{
-		private String nome;
+		public String nome { get; private set; }
 
-		private ICollection<Endereço> endereço;
+		public ICollection<Endereco> endereço { get; private set; }
 
 		///  
 		public void Incluir_Logradouro()
@@ -20,8 +20,13 @@ namespace Classes.Endereco
 
 		}
 
-		///  
-		public void Alterar_Logradouro()
+        public Logradouro()
+        {
+        }
+
+
+        ///  
+        public void Alterar_Logradouro()
 		{
 
 		}

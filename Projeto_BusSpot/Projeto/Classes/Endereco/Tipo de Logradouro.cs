@@ -10,12 +10,17 @@ namespace Classes.Endereco
 {
 	public class TipoLogradouro
 	{
-		private String nome;
+		public String nome { get; private set; }
 
-		private Endereço endereço;
+		public Endereco endereço { get; private set; }
 
-		///  
-		public void Incluir_TipoLogradouro()
+		public TipoLogradouro()
+        {
+        }
+
+
+        ///  
+        public void Incluir_TipoLogradouro()
 		{
 
 		}

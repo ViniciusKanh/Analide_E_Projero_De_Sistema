@@ -21,8 +21,14 @@ public class Acessibilidade
 
 	private ICollection<Coletivo> Onibus;
 
-	///  
-	public void Incluir_Acessibilidade()
+        public Acessibilidade()
+        {
+        }
+
+
+
+        ///  
+        public void Incluir_Acessibilidade()
 	{
 
 	}

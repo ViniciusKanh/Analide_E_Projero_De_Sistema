@@ -11,25 +11,30 @@ namespace Classes.Transporte
 {
 	public class Paradas
 	{
-		private String Latitude;
+		public String Latitude { get; private set; }
 
-		private String Longitude;
+		public String Longitude { get; private set; }
 
-		private String Nome;
+		public String Nome { get; private set; }
 
-		private Ponto ponto;
+		public Ponto ponto { get; private set; }
 
-		private Empresa empresa;
+		public Empresa empresa { get; private set; }
 
-		private Endereço endereço;
+		public Endereco.Endereco endereço { get; private set; }
 
-		private ICollection<Linhas> linhas;
+		public ICollection<Linhas> linhas { get; private set; }
 
-		private Ponto Ponto;
+		public Ponto Ponto { get; private set; }
+
+		public Paradas()
+        {
+        }
 
 
-		///  
-		public void Incluir_Parada()
+
+        ///  
+        public void Incluir_Parada()
 		{
 
 		}
