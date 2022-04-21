@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BusSpot/1.0.0": {
+        "dependencies": {
+          "BancoDados": "1.0.0",
+          "Classes": "1.0.0"
+        },
+        "runtime": {
+          "BusSpot.dll": {}
+        }
+      },
+      "BancoDados/1.0.0": {
+        "runtime": {
+          "BancoDados.dll": {}
+        }
+      },
+      "Classes/1.0.0": {
+        "dependencies": {
+          "BancoDados": "1.0.0"
+        },
+        "runtime": {
+          "Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusSpot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BancoDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
