@@ -8,9 +8,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BancoDados\BancoDados.csproj" />
-    <ProjectReference Include="..\Classes\Classes.csproj" />
-  </ItemGroup>
-
 </Project>

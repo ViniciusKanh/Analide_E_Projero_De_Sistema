@@ -18,7 +18,7 @@ namespace BusSpot
         public static string Inserir(string nome, string sigla)
         {
 
-            Estado obj = new Classes.Endereco.Estado();
+            Estado obj = new();
             obj.nome = nome;
             obj.sigla = sigla;
 
@@ -29,7 +29,7 @@ namespace BusSpot
         public static string Editar(string nome, string sigla)
         {
 
-            Estado obj = new Classes.Endereco.Estado();
+            Estado obj = new();
             obj.nome = nome;
             obj.sigla = sigla;
 
@@ -40,7 +40,7 @@ namespace BusSpot
         public static DataTable Buscar(string sigla)
         {
 
-            Estado obj = new Classes.Endereco.Estado();
+            Estado obj = new();
             obj.sigla = sigla;
 
             return obj.Buscar_Estado(obj);
@@ -50,7 +50,7 @@ namespace BusSpot
         public static string Remover(string sigla)
         {
 
-            Estado obj = new Classes.Endereco.Estado();
+            Estado obj = new();
             obj.sigla = sigla;
 
             return obj.Remover_Estado(obj);
