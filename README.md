@@ -70,12 +70,12 @@
 
 - [:heavy_check_mark:] Aula 09 - 07/04/2021 Obs: Diagrama de Sequência e de Atividades.
 - [:heavy_check_mark:] Aula 10 - 09/04/2021 Obs: Acompanhamento dos Projetos.
-- [] Aula 11 - 14/04/2021 Obs: Diagrama de Estados, Diagrama de Componentes e de Pacotes.
-- [] Aula 12 - 28/04/2021 Obs: Projeto de Dados, Mapeamento Objeto-Relacional.
+- [:heavy_check_mark:] Aula 11 - 14/04/2021 Obs: Diagrama de Estados, Diagrama de Componentes e de Pacotes.
+- [:heavy_check_mark:] Aula 12 - 28/04/2021 Obs: Projeto de Dados, Mapeamento Objeto-Relacional.
 
 ###  MES: MAIO
 
-- [] Aula 13 - 05/05/2021 Obs: Projeto de Interface e Projeto Procedimental.
+- [:heavy_check_mark:] Aula 13 - 05/05/2021 Obs: Projeto de Interface e Projeto Procedimental.
 - [] Aula 14 - 12/05/2021 Obs: Padrões de Projeto.
 - [] Aula 15 - 19/05/2021 Obs: Acompanhamento dos projetos.
 - [] Aula 16 - 26/05/2021 Obs: Análise Essencial, Estruturada e outras formas além de UML.
