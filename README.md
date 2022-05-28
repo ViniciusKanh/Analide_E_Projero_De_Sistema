@@ -76,8 +76,8 @@
 ###  MES: MAIO
 
 - [:heavy_check_mark:] Aula 13 - 05/05/2021 Obs: Projeto de Interface e Projeto Procedimental.
-- [] Aula 14 - 12/05/2021 Obs: Padrões de Projeto.
-- [] Aula 15 - 19/05/2021 Obs: Acompanhamento dos projetos.
+- [:heavy_check_mark:] Aula 14 - 12/05/2021 Obs: Padrões de Projeto.
+- [:heavy_check_mark:] Aula 15 - 19/05/2021 Obs: Acompanhamento dos projetos.
 - [] Aula 16 - 26/05/2021 Obs: Análise Essencial, Estruturada e outras formas além de UML.
 
 
